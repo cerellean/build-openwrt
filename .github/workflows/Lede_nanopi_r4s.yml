@@ -7,7 +7,7 @@
 #
 
 
-name: 编译OpenWrt固件
+name: Lede_nanopi_r4s
 
 on:
   workflow_dispatch:
